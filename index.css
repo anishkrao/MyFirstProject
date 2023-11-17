@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+}
+body{
+    background-color: #455C75;
+    font-family: 'Shantell Sans', cursive;
+}
+h1 {
+    color: #36F575;
+    font-size: 5rem;
+    text-shadow: 2px 2px rgb(39, 39, 39);
+    position: relative;
+    top: -50px;
+}
+h3 {
+    color: #36F575;
+    font-size: 3rem;
+    text-shadow: 2px 2px rgb(39, 39, 39);
+    position: relative;
+    top: -50px;
+}
+
+.container1{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    position: relative;
+    top: -50px;
+}
+.container1 p{
+    font-size: 2rem;
+    color: #36F575;
+    text-shadow: 2px 2px rgb(39, 39, 39);
+}
+.footer{
+    color: #36F575;
+    text-shadow: 2px 2px rgb(39, 39, 39);
+    position: relative;
+    top: -50px;
+}
